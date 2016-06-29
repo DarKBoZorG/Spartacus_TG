@@ -2,25 +2,6 @@
 
 
 **An advanced and powerful administration bot based on ** Seed ** licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
-# Features
-
-* **A powerful antispam system with custom sensitivity for each group**
-* **Multiple realms (admin groups)**
-* **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
-* **Global banning**
-* **Broadcast to all groups**
-* **Group and  links**
-* **Kick, ban and unban by reply**
-* **Groups, ban and global ban list**
-* **Logging anything that happens in a group**
-* **Invitation by username**
-* **Group administration via private messages**
-* **Only mods, owner and admin can add bots in groups**
-* **Arabic lock**
-* **Lock TgService**
-* **Chat list**
-* **And more!**
-
 
 * * *
 
@@ -42,7 +23,30 @@
 
 * **./launch.sh**
 
-* **شماره را وارد نموده و ربات شما ران میباشد** 
+* **شماره را وارد نموده و ربات شما ران میباشد**
+
+* * *
+# Features
+
+* **A powerful antispam system with custom sensitivity for each group**
+* **Multiple realms (admin groups)**
+* **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
+* **Global banning**
+* **Broadcast to all groups**
+* **Group and  links**
+* **Kick, ban and unban by reply**
+* **Groups, ban and global ban list**
+* **Logging anything that happens in a group**
+* **Invitation by username**
+* **Group administration via private messages**
+* **Only mods, owner and admin can add bots in groups**
+* **Arabic lock**
+* **Lock TgService**
+* **Chat list**
+* **And more!**
+
+
+* * *
 
 ## Commands
 Spartacus has several commands that are only usable at certain ranks.
