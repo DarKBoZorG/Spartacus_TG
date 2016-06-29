@@ -284,10 +284,11 @@ Create a realm using the `!createrealm` command.
 
 
 **contact me in private for support**
-[Saeed](https://telegram.me/ir_telegram_developer)
+
+[IR_Telegram_Developer](https://telegram.me/ir_telegram_developer)
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[seyedan25](https://telegram.me/seyedan25)
 
 [topkecleon](https://github.com/topkecleon)
 
@@ -299,4 +300,4 @@ Create a realm using the `!createrealm` command.
 
 Support: [@SpartaSoft](https://telegram.me/SpartaSoft)
 
-Helping: [@IranSeed](https://telegram.me/Spartacus_team)
+Helping: [@Spartacus_Team](https://telegram.me/Spartacus_team)
