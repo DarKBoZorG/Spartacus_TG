@@ -24,6 +24,10 @@
 
 * * *
 
+#اموزش نصب
+کد های زیر را به ترتیب وارد نمایید
+* **1** 
+
 ## Commands
 Spartacus has several commands that are only usable at certain ranks.
 
