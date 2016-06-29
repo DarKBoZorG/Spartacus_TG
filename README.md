@@ -26,7 +26,23 @@
 
 #اموزش نصب
 کد های زیر را به ترتیب وارد نمایید
-* **1** 
+* **sudo apt-get update** 
+
+* **sudo apt-get upgrade**
+
+* **sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev**
+
+* **sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes**
+
+* **git clone https://github.com/telesparta/Spartacus_TG.git -b supergroups**
+
+* **cd Spartacus_TG**
+
+* **./launch.sh install**
+
+* **./launch.sh**
+
+* **شماره را وارد نموده و ربات شما ران میباشد** 
 
 ## Commands
 Spartacus has several commands that are only usable at certain ranks.
