@@ -1,7 +1,7 @@
 # [SpartacusTG](https://telegram.me/Spartacus_TG)
 
 
-**An advanced and powerful administration bot based on (yagop & Seed) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on * **(yagop & Seed)* ** licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
